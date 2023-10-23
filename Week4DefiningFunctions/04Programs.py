@@ -91,4 +91,3 @@ if __name__ == "__main__":
     # displays the maximum, minimum, and mean of the values.
     # Hint: You should know there are built-in functions for max and min. If you hunt, you
     # might also find one for the mean.
-
